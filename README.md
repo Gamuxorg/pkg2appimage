@@ -1,8 +1,9 @@
 # pkg2appimage [![discourse](https://img.shields.io/badge/forum-discourse-orange.svg)](http://discourse.appimage.org) [![Build Status](https://travis-ci.org/AppImage/pkg2appimage.svg)](https://travis-ci.org/AppImage/pkg2appimage) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0e7dd241a1bf44af9eebc80fd2c71763)](https://www.codacy.com/app/AppImage/pkg2appimage?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AppImage/pkg2appimage&amp;utm_campaign=Badge_Grade) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZT9CL8M5TJU72)
 
-[Download as an AppImage](../../releases/tag/continuous)
+[下载AppImage格式软件](../../releases/tag/continuous)
  
 This repository is intended to showcase the [AppImage](http://appimage.org) format and [AppImageKit](https://github.com/probonopd/AppImageKit) software used to create AppImages. It contains the `pkg2appimage` tool and some recipes to generate __AppImages__ (portable Linux apps) using [AppImageKit](https://github.com/probonopd/appimagekit).
+本仓库旨在展示 [AppImage](http://appimage.org) 格式和打包用到的 [AppImageKit](https://github.com/probonopd/AppImageKit) 软件。它包含 `pkg2appimage` 工具和一些使用 [AppImageKit](https://github.com/AppImage/AppImageKit) 生成 __AppImage__ （便携式Linux应用）的配置文件。
 
 There are [multiple ways](https://github.com/probonopd/AppImageKit/wiki/Creating-AppImages) to generate AppImages.  Upstream projects are encouraged to produce their own __upstream packaging__ AppImages, like [many projects](https://appimage.github.io) already do.
 
